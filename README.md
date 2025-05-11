@@ -1,25 +1,18 @@
-# Hunter
+# Hunter - Email Phishing Detection Tool
 
-**Hunter** is a lightweight tool designed to check and analyze potentially malicious links. With a focus on phishing detection, it scans URLs to identify and block dangerous websites.
-
----
+Hunter is a simple yet effective Python-based tool designed to detect potential phishing emails.
 
 ## Features
 
-- Scan URLs for phishing and malicious content
-- Simple, easy-to-use command-line interface
-- Quickly detect harmful links and prevent security threats
-- Lightweight and fast
-
----
+- Analyzes emails for phishing indicators
+- Lightweight and easy to use
+- Fast execution with minimal dependencies
 
 ## Installation
 
-1. Clone this repository:
+Clone the repository:
 
-   ```bash
-   git clone https://github.com/dom1n4t/Hunter.git
-   Navigate to the project folder:
-   cd Hunter
-   Then run the tool by
-   python3 phishing_det.py 
+```bash
+git clone https://github.com/dom1n4t/Hunter.git
+cd Hunter
+python3 phishing_det.py
