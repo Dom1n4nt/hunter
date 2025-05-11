@@ -21,5 +21,5 @@
    git clone https://github.com/dom1n4t/Hunter.git
    Navigate to the project folder:
    cd Hunter
-Then run the tool by 
-python3 phishing_det.py 
+   Then run the tool by
+   python3 phishing_det.py 
